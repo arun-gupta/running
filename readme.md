@@ -51,13 +51,13 @@
 <td>277 out of 3413</td>
 <td>34 out of 390</td>
 </tr>
-<tr bgcolor="#d7c66e">
+<tr>
 <td>Sacramento</td>
 <td>2016</td>
 <td>Full</td>
 <td>4:10:56</td>
-<td></td>
-<td>3080 out of 6172</td>
+<td>9:34</td>
+<td>3080 out of 617</td>
 <td>1997 out of 3338</td>
 <td>302 out of 535</td>
 </tr>
@@ -71,7 +71,7 @@
 <td>290 out of 3518</td>
 <td>31 out of 426</td>
 </tr>
-<tr bgcolor="#d7c66e">
+<tr>
 <td>Sacramento</td>
 <td>2015</td>
 <td>Full</td>
@@ -91,7 +91,7 @@
 <td>159 out of 3593</td>
 <td>24 out of 846</td>
 </tr>
-<tr bgcolor="#d7c66e">
+<tr>
 <td>Paris</td>
 <td>2015</td>
 <td>Full</td>
@@ -101,7 +101,7 @@
 <td>6953 of 30617</td>
 <td>2718 of 10886</td>
 </tr>
-<tr bgcolor="#d7c66e">
+<tr>
 <td>Sacramento</td>
 <td>2014</td>
 <td>Full</td>
@@ -121,7 +121,7 @@
 <td>126 of 3204</td>
 <td>16 of 704</td>
 </tr>
-<tr bgcolor="#d7c66e">
+<tr>
 <td>Big Sur</td>
 <td>2014</td>
 <td>Full</td>
@@ -131,7 +131,7 @@
 <td>304</td>
 <td>54</td>
 </tr>
-<tr bgcolor="#d7c66e">
+<tr>
 <td>Sacramento</td>
 <td>2013</td>
 <td>Full</td>
@@ -161,7 +161,7 @@
 <td>377</td>
 <td>69</td>
 </tr>
-<tr bgcolor="#d7c66e">
+<tr>
 <td>Napa Valley</td>
 <td>2013</td>
 <td>Full</td>
@@ -171,7 +171,7 @@
 <td>164 of 897</td>
 <td>26 of 148</td>
 </tr>
-<tr bgcolor="#d7c66e">
+<tr>
 <td>Sacramento</td>
 <td>2012</td>
 <td>Full</td>
@@ -219,7 +219,7 @@
 <td>77 of 2855</td>
 <td>26 of 1040</td>
 </tr>
-<tr bgcolor="#d7c66e">
+<tr>
 <td>Silicon Valley</td>
 <td>2010</td>
 <td>Full</td>
@@ -289,7 +289,7 @@
 <td>662 of 2991</td>
 <td>234 of 1089</td>
 </tr>
-<tr bgcolor="#d7c66e">
+<tr>
 <td>San Francisco</td>
 <td>2007</td>
 <td>Full</td>
@@ -299,7 +299,7 @@
 <td>1058 of 2805</td>
 <td>178</td>
 </tr>
-<tr bgcolor="#d7c66e">
+<tr>
 <td>Silicon Valley</td>
 <td>2006</td>
 <td>Full</td>
