@@ -17,12 +17,12 @@
 <td>Full</td>
 <td>3:28:43</td>
 <td>7:59</td>
-<td>1464 out of 7288</td>
-<td>1078 out of 3861</td>
-<td>175 out of 597</td>
+<td>8860 out of 26632</td>
+<td>6820 out of 14662</td>
+<td>1173 out of 2447</td>
 </tr>
 <tr>
-<td>Mountains to Beach</td>
+<td>Mountains to Beach, Ojai</td>
 <td>2018</td>
 <td>Full</td>
 <td>3:24:02</td>
