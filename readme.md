@@ -25,7 +25,7 @@
 <td>Mountains to Beach, Ojai</td>
 <td>2018</td>
 <td>Full</td>
-<td>3:218:45</td>
+<td>3:18:45</td>
 <td>7:35</td>
 <td>308 out of 1888</td>
 <td>247 out of 928</td>
