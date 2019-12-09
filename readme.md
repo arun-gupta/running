@@ -35,11 +35,11 @@
 <td>Mountains to Beach, Ojai</td>
 <td>2018</td>
 <td>Full</td>
-<td>3:24:02</td>
-<td>7:48</td>
-<td>1464 out of 7288</td>
-<td>1078 out of 3861</td>
-<td>175 out of 597</td>
+<td>3:18:45</td>
+<td>7:35</td>
+<td>308 out of 1888</td>
+<td>247 out of 928</td>
+<td>43 out of 183</td>
 </tr>
 <tr>
 <td>Sacramento</td>
