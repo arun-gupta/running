@@ -12,6 +12,16 @@
 <th>Age Rank</th>
 </tr>
 <tr>
+<td>American River 50</td>
+<td>2020</td>
+<td>50 mile</td>
+<td>9:15:50</td>
+<td>11:05</td>
+<td>xxx</td>
+<td>xxx</td>
+<td>xxx</td>
+</tr>
+<tr>
 <td>Sacramento</td>
 <td>2019</td>
 <td>Full</td>
